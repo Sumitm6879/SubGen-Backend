@@ -1,0 +1,6 @@
+.env
+/dump
+/venv
+/app/__pycache__
+/outputs
+/uploads
