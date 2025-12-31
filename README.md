@@ -18,8 +18,8 @@ This project provides an API for processing video files to generate accessible m
 
 1. **Clone the repository**
    ```
-   git clone <repo-url>
-   cd aimsCapstone
+   git clone https://github.com/Sumitm6879/SubGen-Backend.git
+   cd SubGen-Backend
    ```
 
 2. **Install dependencies**
